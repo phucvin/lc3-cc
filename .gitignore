@@ -6,7 +6,6 @@ pip-selfcheck.json
 __pycache__
 
 # generated
-*.asm
 *.obj
 *.sym
 
@@ -23,3 +22,5 @@ tests/expect_out/*
 
 # temporary
 # *.c
+
+tmp01/
